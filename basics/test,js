@@ -1,1 +1,14 @@
 console.log('Hello')
+
+const accountID = 7388
+let accountEmail = "Pushpakm.albiorix@gmail.com"
+var accountPassword = "738888"
+accountCity = "Ahmedabad"
+let accountState;
+console.log(accountID)
+
+accountEmail="p@pm.com"
+accountPassword ="123456"
+accountCity="Chandkheda"
+console.table([accountEmail,accountPassword,accountCity,accountID,accountState])
+
